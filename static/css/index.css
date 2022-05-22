@@ -1,0 +1,71 @@
+#name {
+    width: 100%;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#title {
+    width: 20%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0.4%;
+    float: left; 
+    font-size: 16px;
+}
+
+#content {
+    width: 75%; 
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3%;
+    padding-left: 2%;
+    float: right; 
+    border-left-width: 1px;
+    border-left-style: solid;
+    font-size: 14px;
+}
+
+h1  {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 2%;
+}
+
+pre {
+    background-color: gainsboro;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul, li {
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+code {
+    line-height: 150%;
+    font-family: Consolas;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+table {
+    font-size: 15px;
+    height: 25px;
+    width: 80%;
+    text-align: center;
+    margin: 0px auto;
+}
